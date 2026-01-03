@@ -1,0 +1,7 @@
+{
+  "name": "SmartSpend Expense Analyzer",
+  "description": "An AI-powered expense tracker that automatically categorizes bank and credit card statements from text or images using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
